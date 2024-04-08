@@ -1,0 +1,42 @@
+[
+    {
+      "task": "read scriptures",
+      "completed": false
+    },
+    {
+      "task": "work out",
+      "completed": false
+    },
+    {
+      "task": "homework",
+      "completed": false
+    },
+    {
+      "task": "go to the temple",
+      "completed": true
+    },
+    {
+      "task": "laundry",
+      "completed": false
+    },
+    {
+      "task": "change oil",
+      "completed": false
+    },
+    {
+      "task": "call parents",
+      "completed": false
+    },
+    {
+      "task": "yardwork",
+      "completed": true
+    },
+    {
+      "task": "pay bills",
+      "completed": false
+    },
+    {
+      "task": "walk dog",
+      "completed": true
+    }
+  ]
